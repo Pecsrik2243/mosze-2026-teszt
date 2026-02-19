@@ -24,5 +24,3 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     return 0;
 }
-
-std::cout << "Valamit kiír a program végén" << atlag << std::endl;
